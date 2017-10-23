@@ -1,0 +1,7 @@
+We just put AJAX/jQuery onto a prebuilt Sinatra application.
+Now we will be doing that same thing, but building the Sinatra app ourselves.
+First, we will be building out a Craigslist Clone: https://github.com/CodingCorpsMarin/craigslist-jr-challenge
+Use what we learned and remember from Sinatra to build a fully functional application.
+Then we will add jQuery and AJAX elements for adding articles.
+
+Building out the Sinatra application will probably take the whole first day and maybe even more, so get in some practice!
